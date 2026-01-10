@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F5FBE6;
+}
+
+h1{
+    color: #215E61;
+    text-align: center;
+    font-size: 3rem;
+}
+
+img{
+    width: 450px;
+    height: 350px;
+    display: block;
+    margin: 25px auto;
+    border-radius: 8px;
+}
+
+.para{
+    font-size: 1.5rem;
+    font-weight: 600;
+    width: 50vw;
+    text-align: center;
+    margin: 15px auto;
+}
+
+li{
+    width: 60vh;
+    text-align: left;
+    margin: 10px auto;
+    font-size: 1.2rem;
+
+
+}
